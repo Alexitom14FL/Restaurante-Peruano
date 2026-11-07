@@ -1,0 +1,36 @@
+/* Estilos generales */
+body {
+  background-color: #faf9f6;
+  color: #2b2b2b;
+}
+
+/* Color de la marca */
+.btn-brand {
+  background-color: #bd5d38;
+  color: #ffffff;
+  border: none;
+}
+
+.btn-brand:hover {
+  background-color: #a54b29;
+  color: #ffffff;
+}
+
+.btn-outline-brand {
+  border: 1px solid #bd5d38;
+  color: #bd5d38;
+  background-color: transparent;
+}
+
+.btn-outline-brand:hover {
+  background-color: #bd5d38;
+  color: #ffffff;
+}
+
+.text-brand {
+  color: #bd5d38 !important;
+}
+
+.bg-brand-light {
+  background-color: #fcf4ef;
+}
